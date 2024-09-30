@@ -1,0 +1,17 @@
+.venv/
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+*.out
+*.tmp
+*.swp
+*.swo
+*.swn
+.env
